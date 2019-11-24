@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jAVAsCRİPT", "jAVAsCRİPT\jAVAsCRİPT.csproj", "{815AEA0E-7950-415B-BFF0-E5962E1E4354}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScript", "JavaScript\JavaScript.csproj", "{C4EE6707-2CFF-41C7-BBC8-DBEEE6BE8246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{815AEA0E-7950-415B-BFF0-E5962E1E4354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{815AEA0E-7950-415B-BFF0-E5962E1E4354}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{815AEA0E-7950-415B-BFF0-E5962E1E4354}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{815AEA0E-7950-415B-BFF0-E5962E1E4354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EE6707-2CFF-41C7-BBC8-DBEEE6BE8246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EE6707-2CFF-41C7-BBC8-DBEEE6BE8246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EE6707-2CFF-41C7-BBC8-DBEEE6BE8246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EE6707-2CFF-41C7-BBC8-DBEEE6BE8246}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2A139A30-37CD-4DE5-A978-5964AA5A98A4}
+		SolutionGuid = {BEEF7A7A-F3EA-4D6C-A630-BA6FB9B39E45}
 	EndGlobalSection
 EndGlobal
